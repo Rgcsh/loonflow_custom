@@ -1,0 +1,12 @@
+*.pyc
+.idea/
+.vscode
+.DS_Store
+*.swp
+**/migrations/0*.py
+!media/workflow_script/demo_script.py
+!media/notice_script/demo_notice_script.py
+tests/testloonflow.sql
+venv/
+rgc/
+logs/
