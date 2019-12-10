@@ -23,6 +23,7 @@ flask_loonflow_client,loonflow_client_web
 * 新建数据库 名为 loonflownew
 * 导入 项目根目录的 loonflownew.sql 数据
 * pip install -r xxx/loonflow_custom/requirements/common.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+* 添加环境变量 HOMEPATH=./logs
 * python manage.py runserver 6060
 
 #### 启动 celery服务
